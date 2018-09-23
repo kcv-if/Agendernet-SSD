@@ -1,8 +1,12 @@
+data/*.mp4
+data/**/*.jpg
+data/**/*.JPG
+data/**/*.mat
+model/weight/*.h5
 # Byte-compiled / optimized / DLL files
-__pycache__/
+**/__pycache__/
 *.py[cod]
 *$py.class
-
 # C extensions
 *.so
 
@@ -70,7 +74,7 @@ docs/_build/
 target/
 
 # Jupyter Notebook
-.ipynb_checkpoints
+**/.ipynb_checkpoints
 
 # pyenv
 .python-version
