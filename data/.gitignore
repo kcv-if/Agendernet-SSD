@@ -1,7 +1,7 @@
-wiki/
-imdb/
-utkface/
-fgnet/
-adience_crop/
-adience/
+wiki*/
+imdb*/
+utkface*/
+fgnet*/
+adience_fold/
+adience*/
 db/*.csv
