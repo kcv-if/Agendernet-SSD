@@ -84,7 +84,7 @@ def main():
     K.tensorflow_backend.set_session(sess)
 
     args = parser.parse_args()
-    # MODEL = args.model
+    MODEL = 'ssrnet'
     EPOCH = args.epoch
     BATCH_SIZE = args.batch_size
     NUM_WORKER = args.num_worker
